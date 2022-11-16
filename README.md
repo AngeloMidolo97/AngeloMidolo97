@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋![BANNER](https://user-images.githubusercontent.com/113070666/202189221-d123275b-5b3f-4f8d-bdc3-e4d2aeb607f0.png)
+
 
 <!--
 **AngeloMidolo97/AngeloMidolo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
