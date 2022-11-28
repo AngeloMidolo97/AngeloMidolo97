@@ -2,9 +2,11 @@
 
 
 <h2>My Statistics</h2><br>
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AngeloMidolo97&count_private=true&show_icons=true&theme=radical
 )
+
+<h2>Top Languages</h2><br>
+![Top Languages](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
 
 
 
