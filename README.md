@@ -1,5 +1,7 @@
 ### Hi there 👋 i'm Angelo Midolo
-
+<div>
+  <h2>My Statistics</h2>
+</div>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AngeloMidolo97&count_private=true&show_icons=true&theme=radical)
