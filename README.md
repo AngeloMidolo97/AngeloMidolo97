@@ -1,6 +1,6 @@
 ### Hi there 👋 i'm Angelo Midolo
 
-<div style="display: flex; width: 100%;">
+<div style="display: flex; width: 100%; background-color: red;">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AngeloMidolo97&count_private=true&show_icons=true&theme=radical)
 
