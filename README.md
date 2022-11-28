@@ -1,8 +1,10 @@
 ### Hi there 👋 i'm Angelo Midolo
-My Statistic
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AngeloMidolo97&count_private=true&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloMidolo97&show_icons=true&theme=radical)
+
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
 
 
 
