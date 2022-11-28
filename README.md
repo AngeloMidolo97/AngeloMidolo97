@@ -1,6 +1,6 @@
 ### Hi there 👋 i'm Angelo Midolo
 
-<div>
+<div style="display: flex;">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AngeloMidolo97&count_private=true&show_icons=true&theme=radical)
 
