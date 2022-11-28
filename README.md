@@ -1,5 +1,8 @@
 ### Hi there 👋![BANNER](https://user-images.githubusercontent.com/113070666/202189221-d123275b-5b3f-4f8d-bdc3-e4d2aeb607f0.png)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=suyashpatil400&count_private=true&show_icons=true&theme=radical
+)
+
 
 
 
