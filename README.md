@@ -1,6 +1,7 @@
 ### Hi there 👋 i'm Angelo Midolo
 
-<div style="display: flex;">
+<div align="center" style="display: flex;">
+ <h2>My Favorite Languages</h2>
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
 <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff">
