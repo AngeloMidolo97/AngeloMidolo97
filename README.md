@@ -4,9 +4,6 @@
 </div>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AngeloMidolo97&count_private=true&show_icons=true&theme=radical)
 
-<div>
-  <h2>Top Languages</h2>
-</div>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloMidolo97&show_icons=true&theme=radical)
 
 
