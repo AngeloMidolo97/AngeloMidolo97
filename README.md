@@ -5,12 +5,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloMidolo97&show_icons=true&theme=radical)
 
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
-
-
-
-
-
-
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff">
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff">
+<img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff">
 
 <!--
 **AngeloMidolo97/AngeloMidolo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
